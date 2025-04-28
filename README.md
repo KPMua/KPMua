@@ -1,4 +1,4 @@
-## Hi there 👋 I’m currently learning what's best and limits of my absolute mental :D
+## Hi there 👋 I’m currently learning what's best and limits of my absolute mental :D 
 
 <!--
 **KPMua/KPMua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
